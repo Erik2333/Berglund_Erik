@@ -1,3 +1,3 @@
 # Berglund_Erik
 
-Made to all Yrgo prodjects i have.
+Made for all Yrgo prodjects i have.
